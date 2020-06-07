@@ -29,5 +29,16 @@ public class Main {
         System.out.println("The volume of the parallelepiped is " +
                 parallelepiped1.getVolume() + " sm.cub.");
 
+        Phone myPhone = new Phone(12,
+                6,
+                "Samsung",
+                18000,
+                5.5,
+                16,
+                64,
+                8);
+        System.out.println(myPhone);
+
+
     }
 }
