@@ -1,5 +1,5 @@
 /*
- * Classname Rectangle
+ * Classname Cube
  *
  * 07/06/2020
  *
