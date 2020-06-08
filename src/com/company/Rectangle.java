@@ -56,7 +56,6 @@ public class Rectangle {
     }
 
     // method toString() for class Rectangle
-
     @Override
     public String toString() {
         return "Rectangle{" +

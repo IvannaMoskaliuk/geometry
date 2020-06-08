@@ -40,7 +40,7 @@ public class Main {
                 8);
         System.out.println(myPhone);
 
-        Cube cube1 = new Cube(4,5,4,4);
+        Cube cube1 = new Cube(4,4,4,4);
         System.out.println(cube1);
         System.out.println(cube1.isCube());
 

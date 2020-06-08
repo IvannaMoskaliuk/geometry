@@ -41,24 +41,12 @@ public class Cube extends Parallelepiped{
     // Method isCube
 
     public boolean isCube(){
-/*
-        boolean result;
-        if ( this.getSide() == super.getLengthA() &&
-                this.getSide() == super.getWidthB() &&
-                this.getSide() == super.getHeightC() ) {
-            result = true;
-        } else {
-            result = false;
-        }
-        return result;
-*/
         return ( this.getSide() == super.getLengthA() &&
                         this.getSide() == super.getWidthB() &&
                         this.getSide() == super.getHeightC() ? true : false);
     }
 
     // Override toString() method
-
     @Override
     public String toString() {
         return "Cube{" +

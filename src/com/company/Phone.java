@@ -34,6 +34,8 @@ public class Phone extends Rectangle{
         this.numberOfProcessorCores = numberOfProcessorCores;
     }
 
+    // getters and setters
+
     public String getBrand() {
         return brand;
     }
@@ -82,6 +84,7 @@ public class Phone extends Rectangle{
         this.numberOfProcessorCores = numberOfProcessorCores;
     }
 
+    // method toString()
     @Override
     public String toString() {
         return "Phone{" +
