@@ -29,6 +29,7 @@ public class Main {
         System.out.println("The volume of the parallelepiped is " +
                 parallelepiped1.getVolume() + " sm.cub.");
 
+
         Phone myPhone = new Phone(12,
                 6,
                 "Samsung",
@@ -39,6 +40,9 @@ public class Main {
                 8);
         System.out.println(myPhone);
 
+        Cube cube1 = new Cube(4,5,4,4);
+        System.out.println(cube1);
+        System.out.println(cube1.isCube());
 
     }
 }

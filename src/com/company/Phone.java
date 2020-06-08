@@ -8,7 +8,8 @@
  * Module 2. Task 2.
       Inheritance
     1. Create a child  from the class Rectangle.
-    2. Create another class as a super class for your one.  Or create a daughterly class for your one.
+    2. Create another class as a super class for your one.
+        Or create a daughterly class for your one.
  */
 package com.company;
 
